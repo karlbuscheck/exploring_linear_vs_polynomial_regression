@@ -35,4 +35,4 @@ Here's the path we'll follow:
 
 ## Acknowledgements
 
-This notebook is built on top of a lecture by Tao Li, Associate Professor in the department of Information & Analytics at the Leavey School of Business at Santa Clara University. Thanks to the professor for designing lectures that inspire further exploration.
+This notebook is built on top of a lecture by Tao Li, Associate Professor in the Department of Information & Analytics at the Leavey School of Business at Santa Clara University. Thanks to the professor for designing lectures that inspire further exploration.
