@@ -1,4 +1,4 @@
-# Exploring Overfitting with Linear and Polynomial Regression Models
+# Complexity, Accuracy, and Chaos: Exploring Overfitting with Linear and Polynomial Regression Models
 
 ## Project Overview
 
